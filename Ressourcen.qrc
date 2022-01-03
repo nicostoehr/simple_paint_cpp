@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>ressourcen/icons8-datei-64.png</file>
+        <file>ressourcen/icons8-ellipse-64.png</file>
+        <file>ressourcen/icons8-fenster-schließen-50.png</file>
+        <file>ressourcen/icons8-halber-stern-80.png</file>
+        <file>ressourcen/icons8-info-60.png</file>
+        <file>ressourcen/icons8-rectangular-48.png</file>
+        <file>ressourcen/icons8-rectangular-80.png</file>
+        <file>ressourcen/icons8-text-60.png</file>
+        <file>ressourcen/icons8-vieleck-52.png</file>
+        <file>ressourcen/icons8-mappe-60.png</file>
+        <file>ressourcen/icons8-speichern-50.png</file>
+        <file>ressourcen/icons8-ganze-hand-52.png</file>
+    </qresource>
+</RCC>
